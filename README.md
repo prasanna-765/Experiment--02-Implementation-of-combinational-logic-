@@ -29,12 +29,15 @@ RegisterNumber:23006806
 
 ## RTL realization
 ![image](https://github.com/prasanna-765/Experiment--02-Implementation-of-combinational-logic-/assets/150009505/8514e26f-edf0-49b7-90c3-c96c12211ad1)
+![image](https://github.com/prasanna-765/Experiment--02-Implementation-of-combinational-logic-/assets/150009505/bb3ea992-744d-4f9c-af9f-e3ba7902c0c7)
 
 ## Output:
 ## RTL
+## Timing Diagram
+
 ![image](https://github.com/prasanna-765/Experiment--02-Implementation-of-combinational-logic-/assets/150009505/68206fcc-2ea3-468a-912a-4b05e4dfd0db)
 ![image](https://github.com/prasanna-765/Experiment--02-Implementation-of-combinational-logic-/assets/150009505/7dc8602c-3880-4bbe-8cc7-6207d95c3e74)
 
-## Timing Diagram
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
