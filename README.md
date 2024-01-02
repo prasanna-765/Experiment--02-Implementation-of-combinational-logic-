@@ -35,12 +35,13 @@ f2:
 ![Exp2codeii](https://github.com/23004345/Experiment--02-Implementation-of-combinational-logic-/assets/138849203/39cc162f-ea2f-470b-a99b-c708f7b1ace8)
 
 
-output:
-/*
+
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: Devesh s
-RegisterNumber:   23004345
-*/
+
+Developed by:  Prasanna A
+
+RegisterNumber:  23005675
+
 
 
 ## RTL
